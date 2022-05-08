@@ -28,11 +28,13 @@
 To test the WiFi API we can use application "Acrylic WiFi Home" and "inSSIDer" to scan WiFi
 and to detect the SSID, Band (2.4 GHz or 5GHz), the amplitude and Channel.
 Also we can use "JumpStart" to simulate the connection.
+And Since Embedded and cloud have a WiFi connection, HTTP or REST protocols can test this case using GET and Post requests.
 
 
 # Question b:
 
-We can use a framework that provide acces Bluetooth functionality through Bluetooth APIs. 
+We can use Appium, it can run on real iOS and Android devices as well as simulated devices.
+It  provide access to Bluetooth functionality through Bluetooth APIs. 
 Bluetooth APIs are available in the android.bluetooth package.
 There are classes and interfaces needed in order to create Bluetooth connections like:
 ( BluetoothAdapter, BluetoothDevice, BluetoothSocket, BluetoothServerSocket ...)
