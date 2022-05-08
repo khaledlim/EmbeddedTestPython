@@ -9,7 +9,7 @@ def FindFirstFile(pf):
     stats = os.stat(path)
     #print('Size of File is', stats.st_size, 'bytes')
     siza_file= stats.st_size
-    if stats.st_size < 14680064:   # 14*2^20 = 14680064   16732160
+    if stats.st_size < 14680064:   # 14*2^20 = 14680064  
       file = path
       #print("The needed file is "+ file)
       return file
