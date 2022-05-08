@@ -25,11 +25,11 @@
 ## Part 2: System Testing
 
 # Question a:
-To test the WiFi API we can use application "Acrylic WiFi Home" and "inSSIDer" to scan WiFi
+
+Since Embedded and cloud have a WiFi connection, HTTP or REST protocols can test this case using GET and Post requests.
+And to test WiFi API manually we can use application "Acrylic WiFi Home" and "inSSIDer" to scan WiFi
 and to detect the SSID, Band (2.4 GHz or 5GHz), the amplitude and Channel.
 Also we can use "JumpStart" to simulate the connection.
-And Since Embedded and cloud have a WiFi connection, HTTP or REST protocols can test this case using GET and Post requests.
-
 
 # Question b:
 
