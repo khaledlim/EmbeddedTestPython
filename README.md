@@ -11,13 +11,13 @@
  > Function1 Named: printFirstRepeatedInteger
  - File Named: Function1.py
  - To Run the script ==>  **pytest Function1.py**
-   "A" and "B" are arrays that you need to enter values to test the functions
+ - "A" and "B" are arrays that you need to enter values to test the functions
  
  # Question 2:
  > Function2 Named: FindFirstFile
  - File Named: Function1.py
  - To Run the script ==>  **pytest Function1.py**
-   "pf" is the path of your system to test the functions
+ - "pf" is the path of your system to test the functions
    
  # Question 3:
  > Skipped
