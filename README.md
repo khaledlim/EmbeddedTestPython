@@ -26,7 +26,7 @@
 
 # Question a:
 To test the WiFi API we can use application "Acrylic WiFi Home" and "inSSIDer" to scan WiFi
-and to detect the SSID, Band (2.4 GHz or 5GHz), the amplitude adnt Channel.
+and to detect the SSID, Band (2.4 GHz or 5GHz), the amplitude and Channel.
 Also we can use "JumpStart" to simulate the connection.
 
 
